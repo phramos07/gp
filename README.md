@@ -1,4 +1,6 @@
 #GENETIC PROGRAMMING FOR SYMBOLIC REGRESSION
+(PT: Programação genética para regressão simbólica)
+
 Author: Pedro Ramos
 
 email: phramoscosta@gmail.com
@@ -25,7 +27,7 @@ To change any parameters of the genetic program, just take a look at gp_main.py 
 
 DETAILS OF IMPLEMENTATION:
 
-Details of implementation can be found in portuguese in the PDF document tp1_doc_aluno_2011049436.pdf 
+Details of implementation can be found in portuguese in the PDF document doc_in_portuguese.pdf 
 
 Hard coding details of each module can be found inside them. There are three modules:
 
