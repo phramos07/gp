@@ -7,7 +7,7 @@ This program was developed as part of a coursework for the module Natural Comput
 
 HOW IT WORKS:
 
-You get a dataset, a txt file with a set of coordinates. The program uses geneti programming to find the function that best suits that set of coordinates.
+You get a dataset, a txt file with a set of coordinates. The program uses genetic programming concepts to find the function that best fits that set of coordinates.
 
 TO RUN:
 
@@ -29,14 +29,10 @@ Details of implementation can be found in portuguese in the PDF document tp1_doc
 
 Hard coding details of each module can be found inside them. There are three modules:
 
-    expression_tree.py: it describes the structure used for expression trees, that represent the individuals
+expression_tree.py: it describes the structure used for expression trees, that represent the individuals
     
-.
-    
-    individual.py: it is merely a top abstraction layer, that implements the operands (mutation and crossover) as well as the fitness function parameter mechanism in case there is any need of changing the fitness function.
+individual.py: it is merely a top abstraction layer, that implements the operands (mutation and crossover) as well as the fitness function parameter mechanism in case there is any need of changing the fitness function.
 
-.
-    
-    gp_main.py: the only module that you need to look at if you want to change anything (fitness function, genetic program parameters and etc). 
+gp_main.py: the only module that you need to look at if you want to change anything (fitness function, genetic program parameters and etc). 
 
-TAKE A LOOK AT THEM, they are well commented.
+TAKE A LOOK AT THE CODE
