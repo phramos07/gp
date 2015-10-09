@@ -1,5 +1,6 @@
 #GENETIC PROGRAMMING FOR SYMBOLIC REGRESSION
 Author: Pedro Ramos
+
 email: phramoscosta@gmail.com
 
 This program was developed as part of a coursework for the module Natural Computing (Computacao Natural) at the Federal University of Minas Gerais (UFMG). If you need more details of it just email me. It is very incomplete due to the time I had to do this task (about 10 days) so I couldnt make a better code. Since I had tons of other courseworks to do by then, I just let this one go. So feel free to take a look and change it as you please.
