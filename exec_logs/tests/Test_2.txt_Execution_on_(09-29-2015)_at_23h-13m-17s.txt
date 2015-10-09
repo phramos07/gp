@@ -1,0 +1,15 @@
+File: ../datasets/Test_2.txt
+N_vars: 1 N_gens: 100 Pop_size: 500 XP: 0.9 MP: 0.05 TS: 20 MAX_D: 6 MIN_D: 1
+[GEN], [BEST_FIT], [WORST_FIT], [AVG_FIT], [% BETTER CHILDREN]
+1, 7418.78659, 3101091253604013.00000, 6616253017693.91895, 0.000%
+2, 0.00000, 5199294263653156.00000, 10416759105261.38086, 33.691%
+
+Number of variables: 1
+Tree:
+MUL
+L1: |---MUL
+L1: |---|---VAR1
+R2: |---|---VAR1
+R1: |---VAR1
+
+Fitness: 0.0
